@@ -1,6 +1,6 @@
 # Tyron Sebastian
 # ITELEC2
-# Laboratory #07 – Guided Coding Exercise:
+# Laboratory #03 – Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
 
 def main():
